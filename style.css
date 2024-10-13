@@ -571,7 +571,7 @@ ul li {
   .last {
     width: 100%;
     height: auto;
-    padding: 0px;
+    padding: 20px;
     flex-wrap: wrap;
     gap: 20px;
   }
