@@ -358,7 +358,7 @@ ul li {
   font-weight: 400;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 768px) {
   .main-container {
     width: 100%;
     height: auto;
